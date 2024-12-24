@@ -1,6 +1,10 @@
 ﻿using NetProjects.Models;
 
-string apresentacao = "Olá, seja bem-vindo!";
+DateTime dataAtual = DateTime.Now;
+Console.WriteLine($"Data e Hora = {dataAtual}");
+
+
+/* string apresentacao = "Olá, seja bem-vindo!";
 int quantidade = 1;
 double altura = 1.80;
 decimal preco = 1.80M;
@@ -14,13 +18,7 @@ Console.WriteLine(apresentacao);
 Console.WriteLine("Executando variável Quantidade = " + quantidade);
 Console.WriteLine("Executando variável Altura = " + altura.ToString("0.00mts"));
 Console.WriteLine("Executando variável Preço = R$" + preco);
-Console.WriteLine("Executando variável Condição = " + condicao);
-
-
-
-
-
-
+Console.WriteLine("Executando variável Condição = " + condicao); */
 
 
 /* Pessoa pessoa1 = new Pessoa();

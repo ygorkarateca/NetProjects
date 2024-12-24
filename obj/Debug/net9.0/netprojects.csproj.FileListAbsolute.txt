@@ -12,3 +12,4 @@ C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\refint\netproje
 C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.pdb
 C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.genruntimeconfig.cache
 C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\ref\netprojects.dll
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.sourcelink.json
