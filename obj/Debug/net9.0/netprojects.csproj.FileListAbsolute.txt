@@ -1,0 +1,14 @@
+C:\Users\Anonymous\Documents\Github\netprojects\bin\Debug\net9.0\netprojects.exe
+C:\Users\Anonymous\Documents\Github\netprojects\bin\Debug\net9.0\netprojects.deps.json
+C:\Users\Anonymous\Documents\Github\netprojects\bin\Debug\net9.0\netprojects.runtimeconfig.json
+C:\Users\Anonymous\Documents\Github\netprojects\bin\Debug\net9.0\netprojects.dll
+C:\Users\Anonymous\Documents\Github\netprojects\bin\Debug\net9.0\netprojects.pdb
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.AssemblyInfo.cs
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.dll
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\refint\netprojects.dll
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.pdb
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\netprojects.genruntimeconfig.cache
+C:\Users\Anonymous\Documents\Github\netprojects\obj\Debug\net9.0\ref\netprojects.dll
