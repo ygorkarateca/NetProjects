@@ -1,8 +1,13 @@
 ﻿using NetProjects.Models;
 
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine($"Data e Hora = {dataAtual}");
 
+
+
+
+
+/* DateTime dataAtual = DateTime.Now;
+Console.WriteLine($"Data e Hora = {dataAtual}");
+ */
 
 /* string apresentacao = "Olá, seja bem-vindo!";
 int quantidade = 1;

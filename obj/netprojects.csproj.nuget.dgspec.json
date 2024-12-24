@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anonymous\\Documents\\Github\\netprojects\\netprojects.csproj": {}
+    "C:\\Users\\Anonymous\\Documents\\Github\\NetProjects\\netprojects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anonymous\\Documents\\Github\\netprojects\\netprojects.csproj": {
+    "C:\\Users\\Anonymous\\Documents\\Github\\NetProjects\\netprojects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anonymous\\Documents\\Github\\netprojects\\netprojects.csproj",
+        "projectUniqueName": "C:\\Users\\Anonymous\\Documents\\Github\\NetProjects\\netprojects.csproj",
         "projectName": "netprojects",
-        "projectPath": "C:\\Users\\Anonymous\\Documents\\Github\\netprojects\\netprojects.csproj",
+        "projectPath": "C:\\Users\\Anonymous\\Documents\\Github\\NetProjects\\netprojects.csproj",
         "packagesPath": "C:\\Users\\Anonymous\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anonymous\\Documents\\Github\\netprojects\\obj\\",
+        "outputPath": "C:\\Users\\Anonymous\\Documents\\Github\\NetProjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anonymous\\AppData\\Roaming\\NuGet\\NuGet.Config"
